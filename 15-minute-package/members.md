@@ -1,3 +1,0 @@
-# Group Members:
-
-- Robert Lopez
