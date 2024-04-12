@@ -1,1 +1,1 @@
-census-data: https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
+US Census Bureau: https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
