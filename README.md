@@ -37,7 +37,9 @@ SD places of worship:
 
 ## Workflow: 
 Proposal
+
 Find / import necessary data
+
 run analysis in JupyterHub
 
 
