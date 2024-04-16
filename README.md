@@ -33,10 +33,15 @@ SD places of worship:
 
 ## Workflow: 
 Write and submit proposal.
+
 Find data.
+
 Import datasets in Jupyterhub.
+
 Clean up US data to show SD and DC schools and hospital locations only.
+
 Determine city/population center.
+
 
 
 ## Final results: TBD
