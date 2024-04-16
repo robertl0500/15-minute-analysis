@@ -40,7 +40,7 @@ Import datasets in Jupyterhub.
 
 Clean up US data to show SD and DC schools and hospital locations only.
 
-Determine city/population center.
+Determine city/population center using a pointpattern method then finding the mean center
 
 
 
