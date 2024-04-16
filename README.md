@@ -31,17 +31,12 @@ SD grocery store locations:
 SD places of worship:
 
 
-
-## Methods: 
-
-
 ## Workflow: 
-Proposal
-
-Find / import necessary data
-
-run analysis in JupyterHub
-
+Write and submit proposal.
+Find data.
+Import datasets in Jupyterhub.
+Clean up US data to show SD and DC schools and hospital locations only.
+Determine city/population center.
 
 
 ## Final results: TBD
