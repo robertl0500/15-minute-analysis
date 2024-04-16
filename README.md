@@ -22,6 +22,8 @@ DC Grocery store locations: https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa8
 
 SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stops/
 
+SD park locations: https://data.sandiego.gov/datasets/park-locations/
+
 
 
 Methods: 
