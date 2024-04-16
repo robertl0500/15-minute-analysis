@@ -12,6 +12,8 @@ DC Bus stops: https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore?lo
 
 DC Park locations: https://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9/explore?location=38.933414%2C-77.010985%2C11.04
 
+DC Places of Worship: https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba97673c8_5/explore?location=38.894665%2C-77.006365%2C12.60
+
 US Public School File: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations 
 
 US hospital locations: https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96
