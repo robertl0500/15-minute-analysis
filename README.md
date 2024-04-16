@@ -10,7 +10,7 @@ Data: population data, income data, locations (hospitals, schools, grocery store
 
 DC Bus stops: https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore?location=38.933986%2C-77.055527%2C10.51 
 
-DC Park locations
+DC Park locations: https://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9/explore?location=38.933414%2C-77.010985%2C11.04
 
 US Public School File: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations 
 
