@@ -24,6 +24,10 @@ SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stop
 
 SD park locations: https://data.sandiego.gov/datasets/park-locations/
 
+SD grocery store locations: 
+
+SD places of worship:
+
 
 
 Methods: 
