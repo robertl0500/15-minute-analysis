@@ -14,6 +14,8 @@ DC Park locations: https://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795f
 
 DC Places of Worship: https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba97673c8_5/explore?location=38.894665%2C-77.006365%2C12.60
 
+DC Grocery store locations: https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4/explore
+
 US Public School File: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations 
 
 US hospital locations: https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96
