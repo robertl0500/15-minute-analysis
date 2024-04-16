@@ -12,3 +12,10 @@ DC Places of Worship: https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba
 
 DC Grocery store locations: https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4/explore
 
+SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stops/
+
+SD park locations: https://data.sandiego.gov/datasets/park-locations/
+
+SD grocery store locations: 
+
+SD places of worship:
