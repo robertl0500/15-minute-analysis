@@ -22,7 +22,7 @@ DC Grocery store locations: https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa8
 
 SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stops/
 
-SD County hospital locations: https://sdgis-sandag.opendata.arcgis.com/datasets/hlth-healthcare-facilities/explore?location=32.773119%2C-117.035713%2C16.00
+SD County healthcare locations: https://sdgis-sandag.opendata.arcgis.com/datasets/hlth-healthcare-facilities/explore?location=32.773119%2C-117.035713%2C16.00
 
 
 Methods: 
