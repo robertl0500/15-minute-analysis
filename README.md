@@ -52,7 +52,7 @@ Gio:
 
 Joseph:
 
-Cara: Data search
+Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, grocery stores, parks, and churches)
 
 
 ## Conclusion / Final results: TBD
