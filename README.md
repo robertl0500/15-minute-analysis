@@ -8,6 +8,10 @@ Research Question / Objectives: Comparative Analysis of San Diego and Washington
 
 Data: population data, income data, locations (hospitals, schools, grocery stores, transportation, green spaces / parks, religious establishments)
 
+US Public School File: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations 
+
+US hospital locations: https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96
+
 DC Bus stops: https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore?location=38.933986%2C-77.055527%2C10.51 
 
 DC Park locations: https://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9/explore?location=38.933414%2C-77.010985%2C11.04
@@ -16,9 +20,8 @@ DC Places of Worship: https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba
 
 DC Grocery store locations: https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4/explore
 
-US Public School File: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations 
+SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stops/
 
-US hospital locations: https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96
 
 Methods: 
 
