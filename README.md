@@ -26,9 +26,9 @@ SD Transit stop locations (shp): https://data.sandiego.gov/datasets/transit-stop
 
 SD park locations: https://data.sandiego.gov/datasets/park-locations/
 
-SD grocery store locations: 
+SD grocery store locations: [https://rdw.sandag.org/Account/gisdtview](https://rdw.sandag.org/Account/gisdtview?dir=Business)
 
-SD places of worship:
+SD places of worship: https://rdw.sandag.org/Account/gisdtview?dir=Place 
 
 
 ## Workflow: 
