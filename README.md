@@ -44,6 +44,17 @@ Determine city/population center using pointpattern method and find the mean cen
 
 Create buffer using population center of SD and DC. Analyze our findings to see what areas include or lack the minimum standards of living.
 
+## Tasks / Timeframe
+
+Robert:
+
+Gio:
+
+Joseph:
+
+Cara: Data search
+
+
 ## Conclusion / Final results: TBD
 
 
