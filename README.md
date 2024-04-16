@@ -40,11 +40,11 @@ Import datasets in Jupyterhub.
 
 Clean up US data to show SD and DC schools and hospital locations only.
 
-Determine city/population center using a pointpattern method then finding the mean center
+Determine city/population center using pointpattern method and find the mean center
 
+Create buffer using population center of SD and DC. Analyze our findings to see what areas include or lack the minimum standards of living.
 
-
-## Final results: TBD
+## Conclusion / Final results: TBD
 
 
 
