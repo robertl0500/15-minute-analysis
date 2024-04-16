@@ -48,11 +48,11 @@ Create buffer using population center of SD and DC. Analyze our findings to see 
 
 Robert: data import/clean up
 
-Gio: data import/clean up
+Gio: data search for SD grocery stores, data import/clean up
 
-Joseph: data import/clean up
+Joseph: data search for religious institutes, data import/clean up
 
-Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, grocery stores, parks, and churches), data import/clean up
+Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, and parks), data import/clean up
 
 
 ## Conclusion / Final results: TBD
