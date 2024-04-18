@@ -9,7 +9,7 @@ Background:  In a 15-minute city, residents have easy access to destinations tha
 ## Data:
 population data, income data, locations (hospitals, schools, grocery stores, transportation, green spaces / parks, religious establishments)
 
-US Public School Data[https://nces.ed.gov/programs/edge/Geographic/SchoolLocations]
+[US Public School Data](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations)
 
 US hospital locations: https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96
 
