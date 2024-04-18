@@ -19,3 +19,5 @@ SD park locations: https://data.sandiego.gov/datasets/park-locations/
 SD grocery store locations: https://rdw.sandag.org/Account/gisdtview
 
 SD places of worship: https://rdw.sandag.org/Account/gisdtview?dir=Place
+
+New York Bus Stop Shelters: https://data.cityofnewyork.us/Transportation/Bus-Stop-Shelters/qafz-7myz
