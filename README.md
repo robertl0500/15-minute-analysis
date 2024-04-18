@@ -40,17 +40,17 @@ population data, income data, locations (hospitals, schools, grocery stores, tra
 [SANDAG](https://rdw.sandag.org/Account/gisdtview?dir=Place)
 
 ## Workflow: 
-Write and submit proposal.
+- Write and submit proposal.
 
-Find data.
+- Find data.
 
-Import datasets in Jupyterhub.
+- Import datasets in Jupyterhub.
 
-Clean up US data to show SD and DC schools and hospital locations only.
+- Clean up US data to show SD and DC schools and hospital locations only.
 
-Determine city/population center using pointpattern method and find the mean center of largest population tract
+- Determine city/population center using pointpattern method and find the mean center of largest population tract
 
-Create buffer/spatial network using population center of SD and DC. Analyze our findings to see what areas include or lack the minimum standards of living.
+- Create buffer/spatial network using population center of SD and DC. Analyze our findings to see what areas include or lack the minimum standards of living.
 
 ## Tasks / Timeframe
 
