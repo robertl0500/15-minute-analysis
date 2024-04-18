@@ -1,5 +1,4 @@
 # 15-minute-analysis
-Hi!! Please edit and add to this as needed! - Cara
 
 ## Proposal
 
@@ -46,7 +45,7 @@ Create buffer using population center of SD and DC. Analyze our findings to see 
 
 ## Tasks / Timeframe
 
-Robert: data import/clean up
+Robert: data import/clean up, spatial analysis
 
 Gio: data search for SD grocery stores, data import/clean up
 
