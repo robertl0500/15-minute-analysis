@@ -9,34 +9,34 @@ Background:  In a 15-minute city, residents have easy access to destinations tha
 ## Data:
 population data, income data, locations (hospitals, schools, grocery stores, transportation, green spaces / parks, religious establishments)
 
-**US Public School Data**
+**US Public School Data:**
 [NCES](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations)
 
-**US Hospital Data**
+**US Hospital Data:**
 [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/datasets/75079bdea94743bcaca7b6e833692639/explore?location=38.883755%2C-77.045354%2C11.96)
 
-**DC Bus Stop Data**
+**DC Bus Stop Data:**
 [Open Data DC](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore?location=38.933986%2C-77.055527%2C10.51) 
 
-**DC Park Data**
+**DC Park Data:**
 [Open Data DC](https://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9/explore?location=38.933414%2C-77.010985%2C11.04)
 
-**DC Places of Worship Data**
+**DC Places of Worship Data:**
 [Open Data DC](https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba97673c8_5/explore?location=38.894665%2C-77.006365%2C12.60)
 
-**DC Grocery Store Data**
+**DC Grocery Store Data:**
 [Open Data DC](https://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4/explore)
 
-**SD Transit Stop Data**
+**SD Transit Stop Data:**
 [Data SD](https://data.sandiego.gov/datasets/transit-stops/)
 
-**SD Park Data**
+**SD Park Data:**
 [Data SD](https://data.sandiego.gov/datasets/park-locations/)
 
-**SD Grocery Store Data**
+**SD Grocery Store Data:**
 [SANDAG](https://rdw.sandag.org/Account/gisdtview?dir=Business)
 
-**SD Places of Worship Data**
+**SD Places of Worship Data:**
 [SANDAG](https://rdw.sandag.org/Account/gisdtview?dir=Place)
 
 ## Workflow: 
