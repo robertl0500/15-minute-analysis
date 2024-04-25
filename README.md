@@ -60,7 +60,8 @@ Gio: data search for SD grocery stores, data import/clean up
 
 Joseph: data search for religious institutes, data import/clean up
 
-Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, and parks), data import/clean up
+Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, and parks), data import/clean up, SD analysis, 
+Notebook Annotation 
 
 All: decide on who will give the presentation (everyone, some, etc?)
 Some projects have a student make the presentation, but not present. Others have everyone present.
