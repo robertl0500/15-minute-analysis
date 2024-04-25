@@ -66,7 +66,8 @@ Notebook Annotation
 All: decide on who will give the presentation (everyone, some, etc?)
 Some projects have a student make the presentation, but not present. Others have everyone present.
 
-## Conclusion / Final results: TBD
+## Goals
+
 
 
 
