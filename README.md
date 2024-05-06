@@ -54,14 +54,14 @@ population data, income data, locations (hospitals, schools, grocery stores, tra
 
 ## Tasks / Timeframe
 
-Robert: data import/clean up, spatial analysis
+Robert: data import/clean up, spatial analysis (SD isochrones)
 
-Gio: data search for SD grocery stores, data import/clean up
+Gio: data search for SD grocery stores, data import/clean up, spatial analysis (DC isochrones), created access/no access points to analyze socio-economical factors
 
-Joseph: data search for religious institutes, data import/clean up
+Joseph: data search for religious institutes, data import/clean up, sptaial analysis (SD pop. center approach), created access/no access points to analyze socio-economical factors and  graphing final result
 
-Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, and parks), data import/clean up, SD analysis, 
-Notebook Annotation 
+Cara: Data search for SD and DC locations (schools, hospitals, parks, transportation, and parks), data import/clean up, SD analysis (SD pop. center approach), isochrones of top 3  pop. density, create single datafrome for all services with specific IDs 
+Notebook Annotation. 
 
 All: decide on who will give the presentation (everyone, some, etc?)
 Some projects have a student make the presentation, but not present. Others have everyone present.
