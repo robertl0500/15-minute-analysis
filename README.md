@@ -91,27 +91,8 @@ This project set out to evaluate the distribution of essential amenities within 
 walking or biking distance in two major U.S. cities, San Diego and Washington D.C., to assess
 how well each city adheres to the 15-minute city concept. The analysis included a
 comprehensive examination of access to parks, healthcare facilities, schools, transit stops, and
-grocery stores, which are crucial for urban living. In San Diego, the results indicate a significant
-disparity in access to amenities. Approximately 453,992 people live in areas with access to all
-specified amenities within a 15-minute reach, representing a smaller portion of the population
-compared to the 920,725 who reside in areas without such access. This suggests a potential for
-urban planning and development efforts to focus on increasing accessibility in underserved areas,
-particularly targeting regions that currently lack comprehensive access to these essential services.
-Conversely, Washington D.C. shows a more favorable distribution under the 15-minute city
-model, with 471,920 residents enjoying complete access to necessary amenities, against 211,234
-who do not. This indicates a higher level of integration of essential services within the city's
-urban fabric, which supports a sustainable urban environment that facilitates easier and quicker
-access to essential services for a larger segment of the population.The per capita income
-distribution within accessible areas in Washington D.C. shows a higher concentration in the
-middle-income ranges, with the most common incomes between ```$50,000``` and ```$75,000```. This
-suggests that the city’s accessible areas cater well to a middle-income demographic, potentially
-reflecting a balanced urban planning approach that integrates residential and commercial zones
-effectively. San Diego: In contrast, San Diego’s income distribution for accessible areas is
-characterized by a broader spread and a significant peak in the lower to middle-income brackets,
-mostly between ```$20,000``` and ```$40,000```. This indicates that while accessible amenities are
-available, they are predominantly in regions with lower economic resources. The presence of
-high-income ranges, though less frequent, also suggests that some affluent communities benefit
-from the proximity to essential services.
+grocery stores, which are crucial for urban living. Firstly, the population mean centres was chosen to analyse how the central tendency of the population had access to needed services. It was done according to the 15-minute city concept that one could walk or bike from home to service. The spatial analsysis showed San Diego greatly lacking in its population centre whereas Washington D.C. had signigicantly more access to services. Future approaches could include high density locations as results from this approach were inclusive. In San Diego, the results indicate a significant disparity in access to amenities. Approximately 453,992 people live in areas with access to all
+specified amenities within a 15-minute reach, representing a smaller portion of the population compared to the 920,725 who reside in areas without such access. This suggests a potential for urban planning and development efforts to focus on increasing accessibility in underserved areas, particularly targeting regions that currently lack comprehensive access to these essential services. Conversely, Washington D.C. shows a more favorable distribution under the 15-minute city model, with 471,920 residents enjoying complete access to necessary amenities, against 211,234 who do not. This indicates a higher level of integration of essential services within the city's urban fabric, which supports a sustainable urban environment that facilitates easier and quicker access to essential services for a larger segment of the population.The per capita income distribution within accessible areas in Washington D.C. shows a higher concentration in the middle-income ranges, with the most common incomes between ```$50,000``` and ```$75,000```. This suggests that the city’s accessible areas cater well to a middle-income demographic, potentially reflecting a balanced urban planning approach that integrates residential and commercial zones effectively. San Diego: In contrast, San Diego’s income distribution for accessible areas is characterized by a broader spread and a significant peak in the lower to middle-income brackets, mostly between ```$20,000``` and ```$40,000```. This indicates that while accessible amenities are available, they are predominantly in regions with lower economic resources. The presence of high-income ranges, though less frequent, also suggests that some affluent communities benefit from the proximity to essential services.
 
 ## Installation Guide
 
