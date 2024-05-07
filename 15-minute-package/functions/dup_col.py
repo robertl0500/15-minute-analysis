@@ -1,3 +1,5 @@
+# Usage: duplicate_columns(gdf1, gdf2); Prints duplicate columns
+
 def duplicate_columns(df1, df2):
     
     col_1 = set(df1.columns)
